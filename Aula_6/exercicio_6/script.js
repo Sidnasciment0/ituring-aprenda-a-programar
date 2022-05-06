@@ -18,6 +18,7 @@ const resultadoIMC = (imc) => {
   }
 };
 
+
 const mostrarResultadoIMC = () => {
   let peso = Number(document.getElementById("peso").value);
   let altura = Number(document.getElementById("altura").value);
